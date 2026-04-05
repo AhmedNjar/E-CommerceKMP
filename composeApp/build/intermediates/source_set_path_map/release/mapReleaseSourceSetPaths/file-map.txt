@@ -1,0 +1,48 @@
+org.example.kmpproject.composeApp-ui-text-release-0 C:\Users\Lenovo\.gradle\caches\8.9\transforms\00bf699c6a1ad921fdb5e545b257d914\transformed\ui-text-release\res
+org.example.kmpproject.composeApp-material-ripple-release-1 C:\Users\Lenovo\.gradle\caches\8.9\transforms\05e857e68bc31dc420d0f0e60f1a9404\transformed\material-ripple-release\res
+org.example.kmpproject.composeApp-lifecycle-viewmodel-savedstate-2.8.5-2 C:\Users\Lenovo\.gradle\caches\8.9\transforms\069f0d2dc0ec7be7b7a6e9922f638b15\transformed\lifecycle-viewmodel-savedstate-2.8.5\res
+org.example.kmpproject.composeApp-lifecycle-livedata-core-2.8.5-3 C:\Users\Lenovo\.gradle\caches\8.9\transforms\086552ef19d966471ccfa5a3316a4d01\transformed\lifecycle-livedata-core-2.8.5\res
+org.example.kmpproject.composeApp-activity-compose-1.10.1-4 C:\Users\Lenovo\.gradle\caches\8.9\transforms\19548932e12fa7b2efff92a27309d46a\transformed\activity-compose-1.10.1\res
+org.example.kmpproject.composeApp-foundation-release-5 C:\Users\Lenovo\.gradle\caches\8.9\transforms\20d2fca934f1a02612296187e4572174\transformed\foundation-release\res
+org.example.kmpproject.composeApp-activity-ktx-1.10.1-6 C:\Users\Lenovo\.gradle\caches\8.9\transforms\21e928e90b678a398d9952a3c81fcf70\transformed\activity-ktx-1.10.1\res
+org.example.kmpproject.composeApp-lifecycle-runtime-release-7 C:\Users\Lenovo\.gradle\caches\8.9\transforms\24ff7dc2f4a48ff0ba266527eff111e2\transformed\lifecycle-runtime-release\res
+org.example.kmpproject.composeApp-lifecycle-viewmodel-ktx-2.8.5-8 C:\Users\Lenovo\.gradle\caches\8.9\transforms\2790a1afb004456e47fbc2037254815e\transformed\lifecycle-viewmodel-ktx-2.8.5\res
+org.example.kmpproject.composeApp-ui-unit-release-9 C:\Users\Lenovo\.gradle\caches\8.9\transforms\281cbc835d6825153ad0be0a9fec32f3\transformed\ui-unit-release\res
+org.example.kmpproject.composeApp-profileinstaller-1.4.0-10 C:\Users\Lenovo\.gradle\caches\8.9\transforms\31c4b636bea55b3e929ac82e8c35b765\transformed\profileinstaller-1.4.0\res
+org.example.kmpproject.composeApp-ui-graphics-release-11 C:\Users\Lenovo\.gradle\caches\8.9\transforms\3bd187116c3c67f1fb16a45e3c6f6720\transformed\ui-graphics-release\res
+org.example.kmpproject.composeApp-animation-release-12 C:\Users\Lenovo\.gradle\caches\8.9\transforms\45abc9ceecd8e7b7272a403557827511\transformed\animation-release\res
+org.example.kmpproject.composeApp-lifecycle-viewmodel-release-13 C:\Users\Lenovo\.gradle\caches\8.9\transforms\5101b78920b39efd8f61fbd35562d510\transformed\lifecycle-viewmodel-release\res
+org.example.kmpproject.composeApp-startup-runtime-1.1.1-14 C:\Users\Lenovo\.gradle\caches\8.9\transforms\54fb653e9c9913ddbf06347bc248a1bd\transformed\startup-runtime-1.1.1\res
+org.example.kmpproject.composeApp-core-1.13.1-15 C:\Users\Lenovo\.gradle\caches\8.9\transforms\55d2f2cdf450cff987262552fc08a5e1\transformed\core-1.13.1\res
+org.example.kmpproject.composeApp-ui-release-16 C:\Users\Lenovo\.gradle\caches\8.9\transforms\625dd0fb0c494e75807d0d2612273ce4\transformed\ui-release\res
+org.example.kmpproject.composeApp-foundation-layout-release-17 C:\Users\Lenovo\.gradle\caches\8.9\transforms\67af43f6d1de3d2530447f6e76e15d36\transformed\foundation-layout-release\res
+org.example.kmpproject.composeApp-core-viewtree-1.0.0-18 C:\Users\Lenovo\.gradle\caches\8.9\transforms\6dcfda1e778883b479fee35cd8c3c491\transformed\core-viewtree-1.0.0\res
+org.example.kmpproject.composeApp-lifecycle-runtime-ktx-release-19 C:\Users\Lenovo\.gradle\caches\8.9\transforms\7409d7ecc20b0f5e331edf1af817944c\transformed\lifecycle-runtime-ktx-release\res
+org.example.kmpproject.composeApp-animation-core-release-20 C:\Users\Lenovo\.gradle\caches\8.9\transforms\7a3907ac0edfcf4beaf729a2bee58910\transformed\animation-core-release\res
+org.example.kmpproject.composeApp-emoji2-1.3.0-21 C:\Users\Lenovo\.gradle\caches\8.9\transforms\7be820d1468eefe4773928177447a6e2\transformed\emoji2-1.3.0\res
+org.example.kmpproject.composeApp-graphics-path-1.0.1-22 C:\Users\Lenovo\.gradle\caches\8.9\transforms\82e00970e42d606167bf161a28163f0c\transformed\graphics-path-1.0.1\res
+org.example.kmpproject.composeApp-ui-geometry-release-23 C:\Users\Lenovo\.gradle\caches\8.9\transforms\90fe258a408f42ea82e667d4256195f3\transformed\ui-geometry-release\res
+org.example.kmpproject.composeApp-ui-tooling-preview-release-24 C:\Users\Lenovo\.gradle\caches\8.9\transforms\918e0c4e58364ed1e9b732f12c7106b4\transformed\ui-tooling-preview-release\res
+org.example.kmpproject.composeApp-core-ktx-1.13.1-25 C:\Users\Lenovo\.gradle\caches\8.9\transforms\9764ec56da9ab602ef12882cc5d6c345\transformed\core-ktx-1.13.1\res
+org.example.kmpproject.composeApp-core-runtime-2.2.0-26 C:\Users\Lenovo\.gradle\caches\8.9\transforms\a78f4ffedaa67f927e6c4eb9fa4df13d\transformed\core-runtime-2.2.0\res
+org.example.kmpproject.composeApp-activity-1.10.1-27 C:\Users\Lenovo\.gradle\caches\8.9\transforms\be41e018888696de284d532d672d067f\transformed\activity-1.10.1\res
+org.example.kmpproject.composeApp-savedstate-ktx-1.2.1-28 C:\Users\Lenovo\.gradle\caches\8.9\transforms\bf340953f38d77defebcef437abaeaa5\transformed\savedstate-ktx-1.2.1\res
+org.example.kmpproject.composeApp-savedstate-1.2.1-29 C:\Users\Lenovo\.gradle\caches\8.9\transforms\c28346f01f1532884b9440fabbc139ed\transformed\savedstate-1.2.1\res
+org.example.kmpproject.composeApp-ui-util-release-30 C:\Users\Lenovo\.gradle\caches\8.9\transforms\cb0ec67eb52a0650a3dc389a8faaa515\transformed\ui-util-release\res
+org.example.kmpproject.composeApp-runtime-saveable-release-31 C:\Users\Lenovo\.gradle\caches\8.9\transforms\cf44bdf4435c6cec9c50c44d92649e3d\transformed\runtime-saveable-release\res
+org.example.kmpproject.composeApp-annotation-experimental-1.4.1-32 C:\Users\Lenovo\.gradle\caches\8.9\transforms\da75c58dd4b404b63d8fa25ce48690f7\transformed\annotation-experimental-1.4.1\res
+org.example.kmpproject.composeApp-customview-poolingcontainer-1.0.0-33 C:\Users\Lenovo\.gradle\caches\8.9\transforms\db59198f0d546b56fb56e9aafa6e73a3\transformed\customview-poolingcontainer-1.0.0\res
+org.example.kmpproject.composeApp-lifecycle-process-2.8.5-34 C:\Users\Lenovo\.gradle\caches\8.9\transforms\ea88ada531037e5b93f472520f8b5224\transformed\lifecycle-process-2.8.5\res
+org.example.kmpproject.composeApp-material-icons-core-release-35 C:\Users\Lenovo\.gradle\caches\8.9\transforms\f3feed86f21a7d2e0a054a657d7923b9\transformed\material-icons-core-release\res
+org.example.kmpproject.composeApp-lifecycle-runtime-compose-release-36 C:\Users\Lenovo\.gradle\caches\8.9\transforms\f4bf833b3e35a547e1df29561f016afd\transformed\lifecycle-runtime-compose-release\res
+org.example.kmpproject.composeApp-runtime-release-37 C:\Users\Lenovo\.gradle\caches\8.9\transforms\f5e9b0fc1cb118044f2fcf3f02d9b3d8\transformed\runtime-release\res
+org.example.kmpproject.composeApp-material-release-38 C:\Users\Lenovo\.gradle\caches\8.9\transforms\fcff0a614767016352387153bd8e948d\transformed\material-release\res
+org.example.kmpproject.composeApp-pngs-39 C:\Users\Lenovo\Downloads\E-Commerce KMP\E-Commerce KMP\composeApp\build\generated\res\pngs\release
+org.example.kmpproject.composeApp-resValues-40 C:\Users\Lenovo\Downloads\E-Commerce KMP\E-Commerce KMP\composeApp\build\generated\res\resValues\release
+org.example.kmpproject.composeApp-packageReleaseResources-41 C:\Users\Lenovo\Downloads\E-Commerce KMP\E-Commerce KMP\composeApp\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+org.example.kmpproject.composeApp-packageReleaseResources-42 C:\Users\Lenovo\Downloads\E-Commerce KMP\E-Commerce KMP\composeApp\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+org.example.kmpproject.composeApp-release-43 C:\Users\Lenovo\Downloads\E-Commerce KMP\E-Commerce KMP\composeApp\build\intermediates\merged_res\release\mergeReleaseResources
+org.example.kmpproject.composeApp-androidMain-44 C:\Users\Lenovo\Downloads\E-Commerce KMP\E-Commerce KMP\composeApp\src\androidMain\res
+org.example.kmpproject.composeApp-androidRelease-45 C:\Users\Lenovo\Downloads\E-Commerce KMP\E-Commerce KMP\composeApp\src\androidRelease\res
+org.example.kmpproject.composeApp-main-46 C:\Users\Lenovo\Downloads\E-Commerce KMP\E-Commerce KMP\composeApp\src\main\res
+org.example.kmpproject.composeApp-release-47 C:\Users\Lenovo\Downloads\E-Commerce KMP\E-Commerce KMP\composeApp\src\release\res
